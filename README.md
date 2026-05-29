@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ethan Paul
-- 👀 I’m interested in cybersecurity and fullstack development
+- 👀 I’m interested in cybersecurity, fullstack development, machine learning & cloud engineering!
 - 🌱 I’m currently learning React JS and Tailwind
 - 💞️ I’m looking to collaborate on just about anything!
 - 📫 How to reach me ... email ethanjcpaul@gmail.com
